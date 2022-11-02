@@ -1,0 +1,2 @@
+dataaccess.DataAccess#gertaerakSortu(Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)Z
+dataaccess.DataAccess#fillEvent(Ljava/lang/String;Ljava/util/Date;LSport;)LEvent;

@@ -1,0 +1,31 @@
+
+[dataaccess.DataAccess#gertaerakSortu(Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)Z_
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaÝ Ý("2"3"1*Ï
+2_
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaî
+ î("i
+_
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaî î(
+""*Ž
+3_
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaê ê(¢
+Ÿ
+_
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaê ê(4
+%0"Qdataaccess.DataAccess#fillEvent(Ljava/lang/String;Ljava/util/Date;LSport;)LEvent;*
+dataaccess.DataAccess*!
+
+descriptionjava.lang.String*
+
+	eventDatejava.util.Date*
+""*
+1*Ï
+1_
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javað ð("i
+_
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javañ ñ(
+"":
+descriptionjava.lang.String:
+	eventDatejava.util.Date:
+sportjava.lang.StringB
+dataaccess.DataAccess

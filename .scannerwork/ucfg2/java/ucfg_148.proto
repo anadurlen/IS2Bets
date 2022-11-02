@@ -1,0 +1,375 @@
+
+GertaerakSortuDABTest#test2()V]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaM M("8*Ú
+2]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(	å
+â
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(
+%25java.io.PrintStream"__id*
+""≠
+™
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad+ d(6
+%26java.lang.String"__id***(
+GertaerakSortuDABTest"
+descripcion∂
+≥
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(6
+%27java.lang.String"__concat*
+Evento borrado (*
+
+%26java.lang.String®
+•
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(=
+%28java.lang.String"__concat*
+
+%27java.lang.String*
+, §
+°
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad@ d(D
+%29java.util.Date"__id*#*!
+GertaerakSortuDABTest"
+dateÕ 
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad@ d(O
+%30java.lang.String"+java.util.Date#toString()Ljava/lang/String;*
+
+%29java.util.Date2
+toString()ª
+∏
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(O
+%31java.lang.String"__concat*
+
+%28java.lang.String*
+
+%30java.lang.String®
+•
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(V
+%32java.lang.String"__concat*
+
+%31java.lang.String*
+, £
+†
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javadY d(Z
+%33java.lang.String"__id* *
+GertaerakSortuDABTest"
+sª
+∏
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(Z
+%34java.lang.String"__concat*
+
+%32java.lang.String*
+
+%33java.lang.Stringß
+§
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(`
+%35java.lang.String"__concat*
+
+%34java.lang.String*
+)˜Ù
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javad d(a
+%36void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%25java.io.PrintStream*
+
+%35java.lang.String2println(Ljava/lang/String;)*
+0*˛
+3]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(å
+â
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(
+%13java.io.PrintStream"__id*
+""≠
+™
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa2 a(=
+%14java.lang.String"__id***(
+GertaerakSortuDABTest"
+descripcionø
+º
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(=
+%15java.lang.String"__concat*
+La descripci√≥n es null (*
+
+%14java.lang.String®
+•
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(D
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+, §
+°
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaaG a(K
+%17java.util.Date"__id*#*!
+GertaerakSortuDABTest"
+dateÕ 
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaaG a(V
+%18java.lang.String"+java.util.Date#toString()Ljava/lang/String;*
+
+%17java.util.Date2
+toString()ª
+∏
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(V
+%19java.lang.String"__concat*
+
+%16java.lang.String*
+
+%18java.lang.String®
+•
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(]
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+, £
+†
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa` a(a
+%21java.lang.String"__id* *
+GertaerakSortuDABTest"
+sª
+∏
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(a
+%22java.lang.String"__concat*
+
+%20java.lang.String*
+
+%21java.lang.Stringß
+§
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(g
+%23java.lang.String"__concat*
+
+%22java.lang.String*
+)˜Ù
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaa a(h
+%24void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%13java.io.PrintStream*
+
+%23java.lang.String2println(Ljava/lang/String;)*
+2
+1*Ü
+4]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaY Y(Ñ
+Å
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaY Y(
+evdomain.Event"__id*
+""í
+è
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaY Y(
+evdomain.Event"
+__arrayGet*
+""*
+""*
+3
+6*Ê
+6]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaZ Z(	‘—
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaZ Z(
+%10java.lang.String"/domain.Event#getDescription()Ljava/lang/String;*
+
+evdomain.Event2getDescription()≠
+™
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaZ" Z(-
+%11java.lang.String"__id***(
+GertaerakSortuDABTest"
+descripcionÚÔ
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaZ Z(.
+%12boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%10java.lang.String*
+
+%11java.lang.String2equals(Ljava/lang/Object;)*
+3
+4*ç
+7]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaY Y(£
+†
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaY Y(#
+%9java.util.Date"__id*#*!
+GertaerakSortuDABTest"
+date*
+4*Ú
+8]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaO O(ô
+ñ
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaQ Q((
+GertaerakSortuDABTest"
+descripcion"__id*
+ ®
+•
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaR R(
+%0java.util.Calendar"__id*$*"
+GertaerakSortuDABTest"
+todayz
+x
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaR$ R(1	
+%1int"__id*
+""∫∑
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaR R(2	
+%2int"java.util.Calendar#get(I)I*
+
+%0java.util.Calendar*
+	
+%1int2get(I)®
+•
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaR5 R(:
+%3java.util.Calendar"__id*$*"
+GertaerakSortuDABTest"
+todayz
+x
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaR? R(M	
+%4int"__id*
+""∫∑
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaR5 R(N	
+%5int"java.util.Calendar#get(I)I*
+
+%3java.util.Calendar*
+	
+%4int2get(I)ì
+ê
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaR R(V!
+GertaerakSortuDABTest"
+date"__id*
+""î
+ë
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaS S(
+GertaerakSortuDABTest"
+s"__id*
+
+Tennis¨
+©
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaU" U(-
+%6java.lang.String"__id***(
+GertaerakSortuDABTest"
+descripcion£
+†
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaU/ U(3
+%7java.util.Date"__id*#*!
+GertaerakSortuDABTest"
+date¢
+ü
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaU5 U(6
+%8java.lang.String"__id* *
+GertaerakSortuDABTest"
+s*
+7*{
+0 "t
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javah h(
+implicit return*£
+1]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(	å
+â
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(
+%37java.io.PrintStream"__id*
+""≠
+™
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf. f(9
+%38java.lang.String"__id***(
+GertaerakSortuDABTest"
+descripcionπ
+∂
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(9
+%39java.lang.String"__concat*
+Evento no borrado (*
+
+%38java.lang.String®
+•
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(@
+%40java.lang.String"__concat*
+
+%39java.lang.String*
+, §
+°
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javafC f(G
+%41java.util.Date"__id*#*!
+GertaerakSortuDABTest"
+dateπ
+∂
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(G
+%42java.lang.String"__concat*
+
+%40java.lang.String*
+
+%41java.util.Date®
+•
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(N
+%43java.lang.String"__concat*
+
+%42java.lang.String*
+, £
+†
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javafQ f(R
+%44java.lang.String"__id* *
+GertaerakSortuDABTest"
+sª
+∏
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(R
+%45java.lang.String"__concat*
+
+%43java.lang.String*
+
+%44java.lang.Stringß
+§
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(X
+%46java.lang.String"__concat*
+
+%45java.lang.String*
+)˜Ù
+]
+SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/test/java/GertaerakSortuDABTest.javaf f(Y
+%47void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%37java.io.PrintStream*
+
+%46java.lang.String2println(Ljava/lang/String;)*
+0B
+GertaerakSortuDABTest

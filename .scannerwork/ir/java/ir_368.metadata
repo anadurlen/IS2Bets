@@ -1,0 +1,5 @@
+dataaccess.DataAccess#gertaeraEzabatu(LEvent;)Z
+dataaccess.DataAccess#purgeApustuak(LApustuAnitza;)V
+dataaccess.DataAccess#checkResults(LEvent;)Z
+java.util.Date#<init>()V
+java.util.Date#instance-init#
