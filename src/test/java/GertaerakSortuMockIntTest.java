@@ -23,10 +23,11 @@ import exceptions.EventFinished;
 public class GertaerakSortuMockIntTest {
 	
 	@Mock
-	DataAccess da;
+	DataAccess da=Mockito.mock(DataAccess.class);
+	
 	
 	@InjectMocks
-	BLFacade sut;
+	BLFacade sut=new BLFacadeImplementation(da);
 
 	Calendar today = Calendar.getInstance();
 	String description;
@@ -47,12 +48,14 @@ public class GertaerakSortuMockIntTest {
 			date = UtilDate.newDate(today.get(Calendar.YEAR) + 1, (today.get(Calendar.MONTH)+1), 17);
 			sport = "Tennis";
 				
-			Mockito.doReturn(true).when(da.mismaDescripcion(description, date));
-			Mockito.doReturn(true).when(da.sportIsNull(sport));
+			// Mockito.doReturn(true).when(da.mismaDescripcion(description, date));
+			// Mockito.doReturn(true).when(da.sportIsNull(sport));
+			
+			Mockito.doReturn(false).when(da).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
 				
 			try {
 				boolean res = sut.gertaerakSortu(description, date, sport);
-				assertEquals(true, res);
+				assertEquals(false, res);
 			}catch (Exception e){
 				e.printStackTrace();
 
@@ -72,8 +75,10 @@ public class GertaerakSortuMockIntTest {
 			date = UtilDate.newDate(today.get(Calendar.YEAR) + 1, (today.get(Calendar.MONTH)+1), 17);
 			sport = "Tennis";
 				
-			Mockito.doReturn(false).when(da.mismaDescripcion(description, date));
-			Mockito.doReturn(true).when(da.sportIsNull(sport));
+			// Mockito.doReturn(false).when(da.mismaDescripcion(description, date));
+			// Mockito.doReturn(true).when(da.sportIsNull(sport));
+			
+			Mockito.doReturn(false).when(da).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
 				
 			try {
 				boolean res = sut.gertaerakSortu(description, date, sport);
@@ -95,8 +100,8 @@ public class GertaerakSortuMockIntTest {
 			date = UtilDate.newDate(today.get(Calendar.YEAR) + 1, (today.get(Calendar.MONTH)+1), 17);
 			sport = null;
 				
-			Mockito.doReturn(true).when(da.mismaDescripcion(description, date));
-			Mockito.doReturn(false).when(da.sportIsNull(sport));
+			// Mockito.doReturn(true).when(da.mismaDescripcion(description, date));
+			// Mockito.doReturn(false).when(da.sportIsNull(sport));
 				
 			try {
 				boolean res = sut.gertaerakSortu(description, date, sport);
@@ -118,8 +123,8 @@ public class GertaerakSortuMockIntTest {
 			date = UtilDate.newDate(today.get(Calendar.YEAR) + 1, (today.get(Calendar.MONTH)+1), 17);
 			sport = "Balonmano";
 				
-			Mockito.doReturn(true).when(da.mismaDescripcion(description, date));
-			Mockito.doReturn(false).when(da.sportIsNull(sport));
+			// Mockito.doReturn(true).when(da.mismaDescripcion(description, date));
+			// Mockito.doReturn(false).when(da.sportIsNull(sport));
 				
 			try {
 				boolean res = sut.gertaerakSortu(description, date, sport);
@@ -141,8 +146,8 @@ public class GertaerakSortuMockIntTest {
 			date = UtilDate.newDate(today.get(Calendar.YEAR) + 1, (today.get(Calendar.MONTH)+1), 17);
 			sport = "Tennis";
 				
-			Mockito.doReturn(false).when(da.mismaDescripcion(description, date));
-			Mockito.doReturn(true).when(da.sportIsNull(sport));
+			// Mockito.doReturn(false).when(da.mismaDescripcion(description, date));
+			// Mockito.doReturn(true).when(da.sportIsNull(sport));
 				
 			try {
 				boolean res = sut.gertaerakSortu(description, date, sport);

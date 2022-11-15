@@ -86,7 +86,26 @@ public class GertaerakSortuDAWTest {
 			System.out.println("Evento no borrado (" + descripcion + ", " + date + ", " + s + ")");
 			
 	}
+	/*
+	 * Este test igual no es necesario porque ya hay 100 de cobertura
+	 * 
+	@Test
+	public void test3() {
+		
+		boolean expected = true;
+		
+		descripcion = "Casper Ruud-Alexander Zverev";
+		date = UtilDate.newDate(today.get(Calendar.YEAR), (today.get(Calendar.MONTH)+1), 17);
+		s = "Tennis";
 
+		boolean result = dt.gertaerakSortu(descripcion, date, s);
+		
+		assertEquals(expected, result);
+		
+		if (!deleted)
+			System.out.println("Evento no borrado (" + descripcion + ", " + date + ", " + s + ")");
+			
+	}*/
 	@Test
 	public void test4() {
 		
@@ -116,19 +135,23 @@ public class GertaerakSortuDAWTest {
 			
 	}
 	
+	
 	@Test
 	public void test5() {
 		
-		boolean expected = false;
+		
 		
 		descripcion = null;
 		date = UtilDate.newDate(today.get(Calendar.YEAR), (today.get(Calendar.MONTH)+1), 17);
 		s = "Tennis";
 		
-		dt.gertaerakSortu(descripcion, date, s);
-		boolean result = dt.gertaerakSortu(descripcion, date, s);
+		try {
+			dt.gertaerakSortu(descripcion, date, s);
+		}catch(Exception e) {
+			assertTrue(true);
+			System.out.println("La descripción no puede ser null");
+		}
 		
-		assertEquals(expected, result);
 				
 		for (Event ev : dt.getEvents(date)) {
 			if (ev.getDescription().equals(descripcion)) {
@@ -212,10 +235,7 @@ public class GertaerakSortuDAWTest {
 				
 	}
 	
-	
-	
-	
-	
+
 	@Test
 	public void test7() {
 		
@@ -245,5 +265,16 @@ public class GertaerakSortuDAWTest {
 			System.out.println("Evento no borrado (" + descripcion + ", " + date + ", " + s + ")");
 				
 	}
+	
+	
+	
+	
+	
+	
+	
 
 }
+
+
+	
+
