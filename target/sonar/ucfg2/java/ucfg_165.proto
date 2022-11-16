@@ -1,16 +1,16 @@
 
-%domain.Event#getSport()Ldomain/Sport;T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaU U("1*⁄
-1T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaV	 V(ê
-ç
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaV	 V(
+%domain.Event#getSport()Ldomain/Sport;E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaU U("1*¨
+1E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaV	 V(Ä
+~
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaV	 V(
 %0domain.Sport"__id**
 domain.Event"
-sport"l
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaV V(
+sport"]
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaV V(
 
 %0domain.SportB
 domain.Event

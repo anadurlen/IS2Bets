@@ -1,16 +1,16 @@
 
-3configuration.ConfigXML#getUser()Ljava/lang/String;_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.java9 9("1*ç
-1_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.java:	 :(©
-¶
-_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.java:	 :(
-%0java.lang.String"__id*%*#
-configuration.ConfigXML"
-user"{
-_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.java: :(
+5configuration.ConfigXML#getLocale()Ljava/lang/String;P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java1 1("1*‚
+1P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java2	 2(ú
+ô
+P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java2	 2(
+%0java.lang.String"__id*'*%
+configuration.ConfigXML"
+locale"l
+P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java2 2(
 
 %0java.lang.StringB
 configuration.ConfigXML

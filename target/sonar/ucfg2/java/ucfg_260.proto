@@ -1,16 +1,16 @@
 
-)domain.Sport#getIzena()Ljava/lang/String;T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Sport.java# #("1*â
-1T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Sport.java$	 $(”
-‘
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Sport.java$	 $(
+)domain.Sport#getIzena()Ljava/lang/String;E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Sport.java# #("1*µ
+1E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Sport.java$	 $(…
+‚
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Sport.java$	 $(
 %0java.lang.String"__id**
 domain.Sport"
-izena"p
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Sport.java$ $(
+izena"a
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Sport.java$ $(
 
 %0java.lang.StringB
 domain.Sport

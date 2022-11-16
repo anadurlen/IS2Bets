@@ -1,16 +1,16 @@
 
-/domain.Event#getDescription()Ljava/lang/String;T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaE E("1*è
-1T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaF	 F(š
-—
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaF	 F(
+/domain.Event#getDescription()Ljava/lang/String;E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaE E("1*»
+1E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaF	 F(‹
+ˆ
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaF	 F(
 %0java.lang.String"__id*!*
 domain.Event"
-description"p
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaF F(
+description"a
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaF F(
 
 %0java.lang.StringB
 domain.Event

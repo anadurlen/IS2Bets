@@ -17,106 +17,106 @@ import exceptions.EventNotFinished;
 
 
 public class EmaitzakIpiniDAWTest {
-	private static DataAccess sut = new DataAccess();
+	//private static DataAccess sut = new DataAccess();
 	
-	private Event eve1;
-	private Event eve2;
-	
-	private Question q1;
-	private Question q2;
-	
-	private Quote quo1;
-	private Quote quo2;
-	
-	private Apustua ap2;
-	private Apustua ap3;
-
-	
-	@Before
-	public void initialize() {
-		
-		eve1 = sut.getEventsAll().get(0);
-		q1 = eve1.getQuestions().get(0);
-		quo1 = q1.getQuotes().get(0);
-		
-		eve2 = sut.getEventsAll().get(0);
-		q2 =  eve2.getQuestions().get(1);		
-		quo2 = q2.getQuotes().get(0);
-		ap2 = quo2.getApustuak().get(0);
-		
-		ap3 = quo1.getApustuak().get(0);
-
-
-	}
-	
-	// Camino salta excepcion por fecha del evento todavia no finalizada
-	@Test
-	public void test1() {
-		Date fecha = eve1.getEventDate();
-		eve1.setEventDate(UtilDate.newDate(2023,11,23));
-		
-		try {
-			sut.EmaitzakIpini(quo1);
-			
-		}catch(Exception e) {
-			System.out.println("EventNotFinished");
-			assertTrue(e instanceof EventNotFinished);
-		}
-		try {
-			eve1.setEventDate(fecha);
-			
-		} catch (Exception e) {
-			fail("No es posible");
-		}
-	}
-
-	/*
-	 * Camino para comprobar que la egoera de las apuestas
-	 * y el resultado de la pregunta se ponen correctamente.
-	 */
-	@Test
-	public void test2() {
-		
-		String s1 = ap2.getEgoera();
-		String s2 = ap3.getApustuAnitza().getEgoera();
-
-		ap2.setEgoera("jokoan");
-		ap3.setEgoera("jokoan");
-		
-		Date fecha = eve2.getEventDate();
-		eve2.setEventDate(UtilDate.newDate(2021,8,7));
-
-
-		try {
-			sut.EmaitzakIpini(quo2);
-		}catch(Exception EventNotFinished) {
-			System.out.println("EventNotFinished");
-		}
-		
-		String expected = quo2.getForecast();
-		String obtained = q2.getResult();
-		
-		String expected2 = "irabazita";
-		String obtained2 = ap2.getEgoera();
-
-		String expected3 = "galduta";
-		String obtained3 = ap3.getApustuAnitza().getEgoera();
-		
-		assertEquals(expected, obtained);
-		assertEquals(expected2, obtained2);
-		assertEquals(expected3, obtained3);
-
-		try {
-			
-			eve2.setEventDate(fecha);
-			quo2.getQuestion().setResult("");
-			ap2.setEgoera(s1);
-			ap3.getApustuAnitza().setEgoera(s2);
-
-		} catch (Exception e) {
-			fail("No es posible");
-		}
-	}
+//	private Event eve1;
+//	private Event eve2;
+//	
+//	private Question q1;
+//	private Question q2;
+//	
+//	private Quote quo1;
+//	private Quote quo2;
+//	
+//	private Apustua ap2;
+//	private Apustua ap3;
+//
+//	
+//	@Before
+//	public void initialize() {
+//		
+//		eve1 = sut.getEventsAll().get(0);
+//		q1 = eve1.getQuestions().get(0);
+//		quo1 = q1.getQuotes().get(0);
+//		
+//		eve2 = sut.getEventsAll().get(0);
+//		q2 =  eve2.getQuestions().get(1);		
+//		quo2 = q2.getQuotes().get(0);
+//		ap2 = quo2.getApustuak().get(0);
+//		
+//		ap3 = quo1.getApustuak().get(0);
+//
+//
+//	}
+//	
+//	// Camino salta excepcion por fecha del evento todavia no finalizada
+//	@Test
+//	public void test1() {
+//		Date fecha = eve1.getEventDate();
+//		eve1.setEventDate(UtilDate.newDate(2023,11,23));
+//		
+//		try {
+//			sut.EmaitzakIpini(quo1);
+//			
+//		}catch(Exception e) {
+//			System.out.println("EventNotFinished");
+//			assertTrue(e instanceof EventNotFinished);
+//		}
+//		try {
+//			eve1.setEventDate(fecha);
+//			
+//		} catch (Exception e) {
+//			fail("No es posible");
+//		}
+//	}
+//
+//	/*
+//	 * Camino para comprobar que la egoera de las apuestas
+//	 * y el resultado de la pregunta se ponen correctamente.
+//	 */
+//	@Test
+//	public void test2() {
+//		
+//		String s1 = ap2.getEgoera();
+//		String s2 = ap3.getApustuAnitza().getEgoera();
+//
+//		ap2.setEgoera("jokoan");
+//		ap3.setEgoera("jokoan");
+//		
+//		Date fecha = eve2.getEventDate();
+//		eve2.setEventDate(UtilDate.newDate(2021,8,7));
+//
+//
+//		try {
+//			sut.EmaitzakIpini(quo2);
+//		}catch(Exception EventNotFinished) {
+//			System.out.println("EventNotFinished");
+//		}
+//		
+//		String expected = quo2.getForecast();
+//		String obtained = q2.getResult();
+//		
+//		String expected2 = "irabazita";
+//		String obtained2 = ap2.getEgoera();
+//
+//		String expected3 = "galduta";
+//		String obtained3 = ap3.getApustuAnitza().getEgoera();
+//		
+//		assertEquals(expected, obtained);
+//		assertEquals(expected2, obtained2);
+//		assertEquals(expected3, obtained3);
+//
+//		try {
+//			
+//			eve2.setEventDate(fecha);
+//			quo2.getQuestion().setResult("");
+//			ap2.setEgoera(s1);
+//			ap3.getApustuAnitza().setEgoera(s2);
+//
+//		} catch (Exception e) {
+//			fail("No es posible");
+//		}
+//	}
 	
 	
 

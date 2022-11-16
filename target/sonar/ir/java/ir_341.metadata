@@ -1,1 +1,2 @@
-dataaccess.DataAccess#getEventsAll()Ljava/util/List;
+dataaccess.DataAccess#saldoaBistaratu(Ldomain/Registered;)Ljava/lang/String;
+java.lang.Double#toString()Ljava/lang/String;

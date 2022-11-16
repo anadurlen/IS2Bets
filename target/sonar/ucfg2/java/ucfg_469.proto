@@ -1,73 +1,16 @@
 
-.domain.Apustua#galdutaMarkatu(Ldomain/Quote;)ZV
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaL L("4*Ã
-2V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaN N(å
-â
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaN N(
-domain.Apustua"
-egoera"__id*	
-galduta"`
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaO O(
-""*û
-3V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaMW M(ZœÃ
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaMW M(k
-%5java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
-
-quodomain.Quote2getQuoteNumber()î
-ë
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaMm M(r
-%6domain.Quote"__id**
-domain.Apustua"
-kuotaœÃ
-W
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaMm M(É
-%7java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
-
-%6domain.Quote2getQuoteNumber()*
-2
-1*√
-4V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaM M(
-î
-ë
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaM M(
-
-%0domain.Quote"__id**
-domain.Apustua"
-kuotaƒ¡
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaM M(
-%1domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
-
-%0domain.Quote2getQuestion()⁄◊
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaM M(,
-%2java.lang.Integer"6domain.Question#getQuestionNumber()Ljava/lang/Integer;*
-
-%1domain.Question2getQuestionNumber()≈¬
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaM. M(?
-%3domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
-
-quodomain.Quote2getQuestion()⁄◊
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaM. M(S
-%4java.lang.Integer"6domain.Question#getQuestionNumber()Ljava/lang/Integer;*
-
-%3domain.Question2getQuestionNumber()*
-3
-1*Ω
-1V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaQ	 Q("`
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.javaQ Q(
-"":
-quodomain.QuoteB
+5domain.Apustua#getApustuAnitza()Ldomain/ApustuAnitza;G
+=/Users/analucia/git/IS2Bets/src/main/java/domain/Apustua.javaD D($"1* 
+1G
+=/Users/analucia/git/IS2Bets/src/main/java/domain/Apustua.javaE	 E(ì
+ê
+G
+=/Users/analucia/git/IS2Bets/src/main/java/domain/Apustua.javaE	 E(
+%0domain.ApustuAnitza"__id*$*"
+domain.Apustua"
+apustuAnitza"f
+G
+=/Users/analucia/git/IS2Bets/src/main/java/domain/Apustua.javaE E(
+
+%0domain.ApustuAnitzaB
 domain.Apustua

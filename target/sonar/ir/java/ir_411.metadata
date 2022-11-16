@@ -1,1 +1,2 @@
-gui.MainUserGUI#getBusinessLogic()LbusinessLogic/BLFacade;
+domain.Apustua#equals(Ljava/lang/Object;)Z
+java.lang.Integer#equals(Ljava/lang/Object;)Z

@@ -1,1 +1,5 @@
-dataaccess.DataAccess#updateApustuak(Ljava/lang/String;Ldomain/Question;)V
+dataaccess.DataAccess#ApustuaIrabazi(Ldomain/ApustuAnitza;)V
+java.util.Date#<init>()V
+domain.Transaction#<init>(Ldomain/Registered;Ljava/lang/Double;Ljava/util/Date;Ljava/lang/String;)V
+java.util.Date#instance-init#
+domain.Transaction#instance-init#

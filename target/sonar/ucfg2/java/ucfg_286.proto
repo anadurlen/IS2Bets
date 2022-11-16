@@ -1,51 +1,51 @@
 
-(domain.Quote#equals(Ljava/lang/Object;)ZT
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javan n("startingBlock*‡
-2T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javap p(ã
-à
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javap p(
+(domain.Quote#equals(Ljava/lang/Object;)ZE
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javan n("startingBlock*ì
+2E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javap p({
+y
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javap p(
 qdomain.Quote"__id*
 
-ojava.lang.Object»≈
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaq
+ojava.lang.Objectπ∂
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaq
  q(
 %0java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
-domain.Quote2getQuoteNumber()À»
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaq! q(3
+domain.Quote2getQuoteNumber()ºπ
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaq! q(3
 %1java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
 
-qdomain.Quote2getQuoteNumber()"^
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaq q(4
-""*ï
-startingBlockT
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javan n( ú
-ô
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javam m(
+qdomain.Quote2getQuoteNumber()"O
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaq q(4
+""*Ê
+startingBlockE
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javan n( ç
+ä
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javam m(
 
 %2"
 __annotate*
 java.lang.Override*
 
-ojava.lang.ObjectÜ
-É
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javan n(
+ojava.lang.Objectv
+t
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javan n(
 ojava.lang.Object"__annotation*
 
 %2*
 2
-1*π
-1T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javas
- s("^
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javas s(
+1*õ
+1E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javas
+ s("O
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javas s(
 "":
 ojava.lang.ObjectB
 domain.Quote

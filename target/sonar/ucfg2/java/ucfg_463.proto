@@ -1,16 +1,16 @@
 
-'domain.Apustua#getKuota()Ldomain/Quote;V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.java4 4("1*‚
-1V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.java5	 5(î
-ë
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.java5	 5(
-%0domain.Quote"__id**
-domain.Apustua"
-kuota"n
-V
-LC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Apustua.java5 5(
-
-%0domain.QuoteB
+4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;G
+=/Users/analucia/git/IS2Bets/src/main/java/domain/Apustua.java, ,( "1*«
+1G
+=/Users/analucia/git/IS2Bets/src/main/java/domain/Apustua.java-	 -(í
+è
+G
+=/Users/analucia/git/IS2Bets/src/main/java/domain/Apustua.java-	 -(
+%0java.lang.Integer"__id*%*#
+domain.Apustua"
+apustuaNumber"d
+G
+=/Users/analucia/git/IS2Bets/src/main/java/domain/Apustua.java- -(
+
+%0java.lang.IntegerB
 domain.Apustua

@@ -1,1 +1,1 @@
-domain.Team#removeUser(Ldomain/Registered;)V
+domain.Team#getEvents()Ljava/util/Vector;

@@ -1,41 +1,47 @@
 
-4dataaccess.DataAccess#getEventsAll()Ljava/util/List;_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaß ß( "1*‰
-
-1_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java® ®(¥
-±
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java® ®(%
+Ldataaccess.DataAccess#saldoaBistaratu(Ldomain/Registered;)Ljava/lang/String;P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaù ù("1*ü
+1P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaû û(!•
+¢
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaû û(!%
 %0javax.persistence.EntityManager"__id*!*
 dataaccess.DataAccess"
-db˘ˆ
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java® ®(R"
-%1javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
+db…∆
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaû9 û(H
+%1java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
+
+udomain.Registered2getUsername()¡æ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaû û(I
+%2domain.Registered"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
 %
-%0javax.persistence.EntityManager*
-SELECT ev FROM Event ev *
-""20createQuery(Ljava/lang/String;Ljava/lang/Class;)∑
-¥
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java® ®(S%
-queryjavax.persistence.TypedQuery"__id*$
-"
-%1javax.persistence.TypedQueryÚÔ
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java© ©(,
-%2java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*'
-%
-queryjavax.persistence.TypedQuery2getResultList()ú
-ô
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java© ©(-
-eventsjava.util.List"__id*
-
-%2java.util.List"}
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java™ ™(
+%0javax.persistence.EntityManager*
+""*
+
+%1java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)ê
+ç
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaû û(J
+regdomain.Registered"__id*
+
+%2domain.Registered…∆
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaü	 ü(
+%3java.lang.Double"0domain.Registered#getDirukop()Ljava/lang/Double;*
 
-eventsjava.util.ListB
+regdomain.Registered2getDirukop()¬ø
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaü	 ü($
+%4java.lang.String"-java.lang.Double#toString()Ljava/lang/String;*
+
+%3java.lang.Double2
+toString()"l
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaü ü(%
+
+%4java.lang.String:
+udomain.RegisteredB
 dataaccess.DataAccess

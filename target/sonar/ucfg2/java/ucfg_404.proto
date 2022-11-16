@@ -1,16 +1,16 @@
 
-/domain.Transaction#getDirua()Ljava/lang/Double;Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.java5 5("1*˙
-1Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.java6	 6(†
-ù
-Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.java6	 6(
-%0java.lang.Double"__id*!*
-domain.Transaction"
-dirua"v
-Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.java6 6(
-
-%0java.lang.DoubleB
+8domain.Transaction#getErabiltzailea()Ldomain/Registered;K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java/ /(#"1*÷
+1K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java0	 0(ô
+ñ
+K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java0	 0(
+%0domain.Registered"__id*(*&
+domain.Transaction"
+erabiltzaile"h
+K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java0 0(
+
+%0domain.RegisteredB
 domain.Transaction

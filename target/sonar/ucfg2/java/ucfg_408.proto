@@ -1,16 +1,16 @@
 
-.domain.Transaction#getMota()Ljava/lang/String;Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.javaA A("1*ù
-1Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.javaB	 B(Ÿ
-œ
-Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.javaB	 B(
-%0java.lang.String"__id* *
+,domain.Transaction#getData()Ljava/util/Date;K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java; ;("1*È
+1K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java<	 <(Ž
+‹
+K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java<	 <(
+%0java.util.Date"__id* *
 domain.Transaction"
-mota"v
-Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.javaB B(
-
-%0java.lang.StringB
+data"e
+K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java< <(
+
+%0java.util.DateB
 domain.Transaction

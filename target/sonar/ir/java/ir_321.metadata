@@ -1,1 +1,1 @@
-dataaccess.DataAccess#findEvent(Ldomain/Quote;)Ldomain/Event;
+dataaccess.DataAccess#close()V

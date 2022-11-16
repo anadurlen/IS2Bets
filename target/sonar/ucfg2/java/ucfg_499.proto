@@ -1,9 +1,16 @@
 
-*configuration.ConfigXML#isDatabaseLocal()Z_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.javaA A("1*Ï
-1_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.javaB	 B("i
-_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.javaB B(
-""B
+3configuration.ConfigXML#getUser()Ljava/lang/String;P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java9 9("1*à
+1P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java:	 :(š
+—
+P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java:	 :(
+%0java.lang.String"__id*%*#
+configuration.ConfigXML"
+user"l
+P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java: :(
+
+%0java.lang.StringB
 configuration.ConfigXML

@@ -1,89 +1,129 @@
 
->gui.MainGUI#getRdbtnNewRadioButton()Ljavax/swing/JRadioButton;U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaö ö(,"3*Ø
-2U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaú* ú(3îë
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaú ú()
-%1javax.swing.JRadioButton"javax.swing.JRadioButton≈
-¬
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaú ú(4
-%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
+0gui.MainGUI#getLblNewLabel()Ljavax/swing/JLabel;F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaë ë("3*…
+2F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaì# ì(1Í
+Á
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaì# ì(H
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	EtiquetasÄ˝
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaì# ì(b
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
 
-%1javax.swing.JRadioButton*	
-English™
-ß
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaú ú(4&
-gui.MainGUI"
-rdbtnNewRadioButton"__id* 
-
-%1javax.swing.JRadioButton™
-ß
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaù ù(
-%3javax.swing.JRadioButton"__id*(*&
-gui.MainGUI"
-rdbtnNewRadioButton}{
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaù- ù(;
-%4gui.MainGUI$4"gui.MainGUI$4ì
-ê
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaù) ¢(
-%5"java.lang.Object#<init>()V*
+%1java.util.ResourceBundle*
+SelectOption2getString(Ljava/lang/String;)xv
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaì ì("
+%3javax.swing.JLabel"javax.swing.JLabel∑
+¥
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaì ì(c
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+
+%2java.lang.Stringî
+ë
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaì ì(c%
+gui.MainGUI"
+jLabelSelectOption"__id*
+
+%3javax.swing.JLabelî
+ë
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaî î(
+%5javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOptionc
+a
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaî1 î(:	
+%6int"__id*
+""nl
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaî" î(&
+%7java.awt.Font"java.awt.Font¥
+±
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaî î(?
+%8"+java.awt.Font#<init>(Ljava/lang/String;II)V*
 
-%4gui.MainGUI$4£†
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaù ¢(
+%7java.awt.Font*
+
+Tahoma*
+	
+%6int*2÷”
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaî î(@
 
-%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
-
-%3javax.swing.JRadioButton*
+%9void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%5javax.swing.JLabel*
 
-%4gui.MainGUI$422addActionListener(Ljava/awt/event/ActionListener;)°
-û
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.java£ £(
-%7javax.swing.ButtonGroup"__id* *
-gui.MainGUI"
-buttonGroup™
-ß
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.java£ £(&
-%8javax.swing.JRadioButton"__id*(*&
-gui.MainGUI"
-rdbtnNewRadioButtonàÖ
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.java£ £('
+%7java.awt.Font2setFont(Ljava/awt/Font;)ï
+í
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaï ï(
+%10javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOptiono
+m
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaï$ ï(/
+%11java.awt.Color"__id*
+""ËÂ
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaï ï(0
+%12void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%10javax.swing.JLabel*
+
+%11java.awt.Color2setForeground(Ljava/awt/Color;)ï
+í
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javañ ñ(
+%13javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOptiond
+b
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javañ- ñ(B
 
-%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
-
-%7javax.swing.ButtonGroup* 
-
-%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
-1*è
-3U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaõ õ(™
-ß
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.javaõ õ(
-%0javax.swing.JRadioButton"__id*(*&
-gui.MainGUI"
-rdbtnNewRadioButton*
+%14int"__id*
+""Õ 
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javañ ñ(C
+%15void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%13javax.swing.JLabel*
+
+
+%14int2setHorizontalAlignment(I)*
+1*Í
+3F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaí í(î
+ë
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaí í(
+%0javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption*
 2
-1*Ñ
-1U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.java•	 •(´
-®
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.java•	 •(
-%10javax.swing.JRadioButton"__id*(*&
-gui.MainGUI"
-rdbtnNewRadioButton"z
-U
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/gui/MainGUI.java• •(!
-
-%10javax.swing.JRadioButtonB
+1* 
+1F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaò	 ò(ï
+í
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaò	 ò(
+%16javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption"e
+F
+:/Users/analucia/git/IS2Bets/src/main/java/gui/MainGUI.javaò ò(
+
+%16javax.swing.JLabelB
 gui.MainGUI

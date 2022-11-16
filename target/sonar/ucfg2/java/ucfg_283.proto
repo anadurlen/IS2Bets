@@ -1,53 +1,53 @@
 
-)domain.Quote#toString()Ljava/lang/String;T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaY Y("1*—	
-1T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaZ	 Z(ó
-î
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaZ Z(
+)domain.Quote#toString()Ljava/lang/String;E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaY Y("1*Ÿ
+1E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaZ	 Z(à
+Ö
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaZ Z(
 %0java.lang.String"__id**
 domain.Quote"
 
-forecast•
-¢
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaZ	 Z(
+forecastñ
+ì
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaZ	 Z(
 %1java.lang.String"__concat*
 
 Forecast: *
 
-%0java.lang.String§
-°
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaZ	 Z(*
+%0java.lang.Stringï
+í
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaZ	 Z(*
 %2java.lang.String"__concat*
 
 %1java.lang.String*
-	; Quote: î
-ë
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaZ; Z(@
+	; Quote: Ö
+Ç
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaZ; Z(@
 %3java.lang.Double"__id**
 domain.Quote"
-balio—
-Œ
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaZ+ Z(A
+balio¬
+ø
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaZ+ Z(A
 %4java.lang.String".java.lang.Double#toString(D)Ljava/lang/String;*"
 java.lang.Double*
 
-%3java.lang.DoubleØ
-¨
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaZ	 Z(A
+%3java.lang.Double†
+ù
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaZ	 Z(A
 %5java.lang.String"__concat*
 
 %2java.lang.String*
 
-%4java.lang.String"p
-T
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Quote.javaZ Z(B
+%4java.lang.String"a
+E
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Quote.javaZ Z(B
 
 %5java.lang.StringB
 domain.Quote

@@ -1,1 +1,1 @@
-dataaccess.DataAccess#findTeam(Ldomain/Registered;)Ldomain/Team;
+dataaccess.DataAccess#findSport(Ldomain/Event;)Ldomain/Sport;

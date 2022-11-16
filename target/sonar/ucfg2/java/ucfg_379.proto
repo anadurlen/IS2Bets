@@ -1,66 +1,297 @@
 
-Kdataaccess.DataAccess#findApustuAnitza(Ldomain/Registered;)Ljava/util/List;_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaí í(+"1*á
-1_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaì! ì(#¥
-±
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaì! ì(#%
+Odataaccess.DataAccess#apustuaEzabatu(Ldomain/Registered;Ldomain/ApustuAnitza;)VP
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaá á("5*º
+3P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaí í(ﬂ‹
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaí í(
+%22java.util.ArrayList"6domain.ApustuAnitza#getApustuak()Ljava/util/ArrayList;*%
+#
+apustuAnitzadomain.ApustuAnitza2getApustuak()û
+õ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaí í($
+%23domain.Apustua"
+__arrayGet*
+
+%22java.util.ArrayList*
+""∏µ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaí í(/
+%24domain.Quote"'domain.Apustua#getKuota()Ldomain/Quote;*
+
+%23domain.Apustua2
+getKuota()ﬂ‹
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaí> í(X
+%25java.util.ArrayList"6domain.ApustuAnitza#getApustuak()Ljava/util/ArrayList;*%
+#
+apustuAnitzadomain.ApustuAnitza2getApustuak()û
+õ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaí> í(_
+%26domain.Apustua"
+__arrayGet*
+
+%25java.util.ArrayList*
+""‚ﬂ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaí í(`
+%27void"-domain.Quote#removeApustua(Ldomain/Apustua;)V*
+
+%24domain.Quote*
+
+%26domain.Apustua2removeApustua(Ldomain/Apustua;)ﬂ‹
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaì ì((
+%28java.util.ArrayList"6domain.ApustuAnitza#getApustuak()Ljava/util/ArrayList;*%
+#
+apustuAnitzadomain.ApustuAnitza2getApustuak()û
+õ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaì ì(/
+%29domain.Apustua"
+__arrayGet*
+
+%28java.util.ArrayList*
+""∏µ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaì ì(:
+%30domain.Quote"'domain.Apustua#getKuota()Ldomain/Quote;*
+
+%29domain.Apustua2
+getKuota()¿Ω
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaì ì(H
+%31domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
+
+%30domain.Quote2getQuestion()∫∑
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaì ì(S
+%32domain.Event"(domain.Question#getEvent()Ldomain/Event;*
+
+%31domain.Question2
+getEvent()¥±
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaì ì(^
+%33domain.Sport"%domain.Event#getSport()Ldomain/Sport;*
+
+%32domain.Event2
+getSport()á
+Ñ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaì ì(_
+spodomain.Sport"__id*
+
+%33domain.Sport‘—
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaî î(4
+%34java.lang.Integer"5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;*
+
+spodomain.Sport2getApustuKantitatea()„‡
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaî î(7
+%35void"6domain.Sport#setApustuKantitatea(Ljava/lang/Integer;)V*
+
+spodomain.Sport*
+""2(setApustuKantitatea(Ljava/lang/Integer;)*
+4*Ê
+4P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaë ë(ﬂ‹
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaë ë('
+%20java.util.ArrayList"6domain.ApustuAnitza#getApustuak()Ljava/util/ArrayList;*%
+#
+apustuAnitzadomain.ApustuAnitza2getApustuak()§°
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaë ë(.
+
+%21int"java.util.ArrayList#size()I*
+
+%20java.util.ArrayList2size()*
+3
+1*Ò&
+5P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaà! à(#•
+¢
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaà! à(#%
 %0javax.persistence.EntityManager"__id*!*
 dataaccess.DataAccess"
-dbÿ’
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaì; ì(J
-%1java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
-
-udomain.Registered2getUsername()–Õ
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaì! ì(K
+dbÕ 
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaà; à(N
+%1java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
+
+user1domain.Registered2getUsername()¡æ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaà! à(O
 %2domain.Registered"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
 %
 %0javax.persistence.EntityManager*
 ""*
 
-%1java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)¥
-±
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaî$ î(&%
+%1java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)ë
+é
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaà à(P
+userdomain.Registered"__id*
+
+%2domain.Registered•
+¢
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaâ â( %
 %3javax.persistence.EntityManager"__id*!*
 dataaccess.DataAccess"
-db¶£
-`
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaî$ î(é"
-%4javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
+db‰·
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaâ: â(T
+%4java.lang.Integer">domain.ApustuAnitza#getApustuAnitzaNumber()Ljava/lang/Integer;*
+
+apdomain.ApustuAnitza2getApustuAnitzaNumber()ƒ¡
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaâ â(U
+%5domain.ApustuAnitza"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
 %
-%3javax.persistence.EntityManager*HF
-DSELECT aa FROM ApustuAnitza aa WHERE aa.getUser().getUsername() =?1 *
-""20createQuery(Ljava/lang/String;Ljava/lang/Class;)π
-∂
-`
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaî î(è&
-Aqueryjavax.persistence.TypedQuery"__id*$
-"
-%4javax.persistence.TypedQueryÿ’
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaï ï((
-%5java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
+%3javax.persistence.EntityManager*
+""*
+
+%4java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)ù
+ö
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaâ â(V#
+apustuAnitzadomain.ApustuAnitza"__id*
+
+%5domain.ApustuAnitza•
+¢
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaä ä(%
+%6javax.persistence.EntityManager"__id*!*
+dataaccess.DataAccess"
+dbíè
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaä ä()
+%7#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*'
+%
+%6javax.persistence.EntityManager2getTransaction()≈¬
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaä ä(
+
+%8void",javax.persistence.EntityTransaction#begin()V*+
+)
+%7#javax.persistence.EntityTransaction2begin()‘—
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaã ã(0
+%9java.lang.Double"1domain.ApustuAnitza#getBalioa()Ljava/lang/Double;*%
+#
+apustuAnitzadomain.ApustuAnitza2getBalioa()¯ı
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaã ã(1
+%10void"7domain.Registered#updateDiruKontua(Ljava/lang/Double;)V*
+
+userdomain.Registered*
 
-udomain.Registered2getUsername()”–
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaï ï()"
-%6javax.persistence.TypedQuery"\javax.persistence.TypedQuery#setParameter(ILjava/lang/Object;)Ljavax/persistence/TypedQuery;*(
+%9java.lang.Double2$updateDiruKontua(Ljava/lang/Double;)’“
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaå( å(@
+%11java.lang.Double"1domain.ApustuAnitza#getBalioa()Ljava/lang/Double;*%
+#
+apustuAnitzadomain.ApustuAnitza2getBalioa(){y
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaåF å(J
+%12java.util.Date"java.util.Dateè
+å
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaåB å(L
+%13"java.util.Date#<init>()V*
+
+%12java.util.DateÑÅ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaå å(!
+%14domain.Transaction"domain.Transaction√
+¿
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaå å(_
+%15"cdomain.Transaction#<init>(Ldomain/Registered;Ljava/lang/Double;Ljava/util/Date;Ljava/lang/String;)V*
+
+%14domain.Transaction*
+
+userdomain.Registered*
+
+%11java.lang.Double*
+
+%12java.util.Date*
+ApustuaEzabatuë
+é
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaå å(`
+tdomain.Transaction"__id*
+
+%14domain.Transaction˘ˆ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaç ç(
+%16void"7domain.Registered#addTransaction(Ldomain/Transaction;)V*
+
+userdomain.Registered*
+
+tdomain.Transaction2$addTransaction(Ldomain/Transaction;)¶
+£
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaé é(&
+%17javax.persistence.EntityManager"__id*!*
+dataaccess.DataAccess"
+dbÇˇ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaé é(
+%18void"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
-Aqueryjavax.persistence.TypedQuery*2*
-
-%5java.lang.String2!setParameter(ILjava/lang/Object;)Û
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javañ	 ñ(
-%7java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*(
+%17javax.persistence.EntityManager*
+
+tdomain.Transaction2persist(Ljava/lang/Object;)ÖÇ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaè è("
+%19void"7domain.Registered#removeApustua(Ldomain/ApustuAnitza;)V*
+
+userdomain.Registered*%
+#
+apustuAnitzadomain.ApustuAnitza2$removeApustua(Ldomain/ApustuAnitza;)*
+4*n
+0 "g
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaò ò(
+implicit return*û	
+1P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javañ ñ(¶
+£
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javañ ñ(&
+%36javax.persistence.EntityManager"__id*!*
+dataaccess.DataAccess"
+dbåâ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javañ ñ(
+%37void";javax.persistence.EntityManager#remove(Ljava/lang/Object;)V*(
 &
-Aqueryjavax.persistence.TypedQuery2getResultList()"y
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javañ ñ( 
-
-%7java.util.List:
-udomain.RegisteredB
+%36javax.persistence.EntityManager*%
+#
+apustuAnitzadomain.ApustuAnitza2remove(Ljava/lang/Object;)¶
+£
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaó ó(&
+%38javax.persistence.EntityManager"__id*!*
+dataaccess.DataAccess"
+dbîë
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaó ó(*
+%39#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*(
+&
+%38javax.persistence.EntityManager2getTransaction()…∆
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaó ó(
+%40void"-javax.persistence.EntityTransaction#commit()V*,
+*
+%39#javax.persistence.EntityTransaction2commit()*
+0:
+user1domain.Registered:
+apdomain.ApustuAnitzaB
 dataaccess.DataAccess

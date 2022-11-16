@@ -1,42 +1,41 @@
 
-Ldataaccess.DataAccess#findQuestionFromQuote(Ldomain/Quote;)Ldomain/Question;_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java¤ ¤(&"1*¨
-
-1_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java¥ ¥(´
-±
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java¥ ¥(%
+@dataaccess.DataAccess#findTeam(Ldomain/Registered;)Ldomain/Team;P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.java© ©("1*Ë	
+1P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaª! ª(#¥
+¢
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaª! ª(#%
 %0javax.persistence.EntityManager"__id*!*
 dataaccess.DataAccess"
-dbÖÓ
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java¥# ¥(5
-%1java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
-
-qdomain.Quote2getQuoteNumber()ÌÉ
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java¥ ¥(6
-%2domain.Quote"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
+dbÉÆ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaª; ª(J
+%1java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
+
+udomain.Registered2getUsername()Á¾
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaª! ª(K
+%2domain.Registered"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
 %
 %0javax.persistence.EntityManager*
-""*
+""*
+
+%1java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)‘
+Ž
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaª ª(L
+userdomain.Registered"__id*
 
-%1java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)•
-’
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java¥ ¥(7
-quodomain.Quote"__id*
-
-%2domain.QuoteÎË
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java¦	 ¦(
-%3domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
-
-quodomain.Quote2getQuestion()"z
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.java¦ ¦(
-
-%3domain.Question:
-qdomain.QuoteB
+%2domain.Registered¾»
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.java«	 «(
+%3domain.Team"*domain.Registered#getTaldea()Ldomain/Team;*
+
+userdomain.Registered2getTaldea()"g
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.java« «(
+
+%3domain.Team:
+udomain.RegisteredB
 dataaccess.DataAccess

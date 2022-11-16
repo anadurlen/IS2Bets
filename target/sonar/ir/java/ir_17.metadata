@@ -1,1 +1,1 @@
-exceptions.EventNotFinished#<init>(Ljava/lang/String;)V
+domain.Team#addUser(Ldomain/Registered;)V

@@ -1,92 +1,92 @@
 
-(domain.Event#equals(Ljava/lang/Object;)ZV
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaö ö("startingBlock*Ω
-2V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java£
- £("`
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java£ £(
-""*¿
-3V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java° °(ì
-ê
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java° °(
+(domain.Event#equals(Ljava/lang/Object;)ZG
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaö ö("startingBlock*ü
+2G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java£
+ £("Q
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java£ £(
+""*Ñ
+3G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java° °(Ñ
+Å
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java° °(
 otherdomain.Event"__id*
 
-objjava.lang.Objectù
-ö
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java¢ ¢(
+objjava.lang.Objecté
+ã
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java¢ ¢(
 %2java.lang.Integer"__id*!*
 domain.Event"
-eventNumber§
-°
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java¢ ¢(&
+eventNumberï
+í
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java¢ ¢(&
 %3java.lang.Integer"__id*(*&
 
 otherdomain.Event"
 eventNumber*
 2
-1*¢
-startingBlockV
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaö ö("†
-ù
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaô ô(
+1*Û
+startingBlockG
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaö ö("ë
+é
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaô ô(
 
 %4"
 __annotate*
 java.lang.Override*
 
-objjava.lang.Objectä
-á
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaö ö(!
+objjava.lang.Objectz
+x
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaö ö(!
 objjava.lang.Object"__annotation*
 
 %4*	
 5
 6
-8*Ω
-4V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java†
- †("`
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java† †(
-""*Ó
-5V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaü ü(æª
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaü ü(
+8*ü
+4G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java†
+ †("Q
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java† †(
+""*¡
+5G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaü ü(Ø¨
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaü ü(
 %0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
 domain.Event2
-getClass()«ƒ
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaü ü("
+getClass()∏µ
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaü ü("
 %1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
 
 objjava.lang.Object2
 getClass()*
 3
-4*Ω
-6V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaû
- û("`
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaû û(
-""*Ω
-8V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaú
- ú("`
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.javaú ú(
-""*Ω
-1V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java§	 §("`
-V
-JC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Event.java§ §(
+4*ü
+6G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaû
+ û("Q
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaû û(
+""*ü
+8G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaú
+ ú("Q
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.javaú ú(
+""*ü
+1G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java§	 §("Q
+G
+;/Users/analucia/git/IS2Bets/src/main/java/domain/Event.java§ §(
 "":
 objjava.lang.ObjectB
 domain.Event

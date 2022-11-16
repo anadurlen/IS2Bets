@@ -1,2 +1,1 @@
-dataaccess.DataAccess#purgeApustuak(Ldomain/ApustuAnitza;)V
-java.lang.String#equals(Ljava/lang/Object;)Z
+dataaccess.DataAccess#updateApustuak(Ljava/lang/String;Ldomain/Question;)V

@@ -1,34 +1,112 @@
 
-3dataaccess.DataAccess#getAllTeams()Ljava/util/List;_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaø ø("1*¾	
-1_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaù ù(´
-±
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaù ù(%
-%0javax.persistence.EntityManager"__id*!*
+6dataaccess.DataAccess#popularrenaLortu()Ldomain/Sport;P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaî î("6*ó
+2P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaô ô(y
+w
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaô ô(
+sportdomain.Sport"__id*
+""˜
+•
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaô ô(
+sportdomain.Sport"
+__arrayGet*
+
+spjava.util.List*
+""*
+4
+1*ù
+3P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.java÷ ÷(‡
+„
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.java÷ ÷(
+sdomain.Sport"__id*
+
+sportdomain.Sport’
+
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaø ø(
+maxjava.lang.Integer"__id*
+
+kontjava.lang.Integer*
+2*É
+4P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaõ õ(ÕÒ
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaõ õ(#
+%4java.lang.Integer"5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;*
+
+sportdomain.Sport2getApustuKantitatea()‘
+
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaõ õ(#
+kontjava.lang.Integer"__id*
+
+%4java.lang.Integer*
+2
+3*õ
+6P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaï ï(m
+k
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaï ï(	
+%0int"__id*
+""
+
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaï ï( 
+maxjava.lang.Integer"__id*
+	
+%0intu
+s
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javağ ğ(
+sdomain.Sport"__id*
+""¥
+¢
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javañ ñ(%
+%1javax.persistence.EntityManager"__id*!*
 dataaccess.DataAccess"
-dböó
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaù ù(M"
-%1javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
+dbêç
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javañ ñ(R"
+%2javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
 %
-%0javax.persistence.EntityManager*
-SELECT t FROM Team t *
-""20createQuery(Ljava/lang/String;Ljava/lang/Class;)·
-´
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaù ù(N%
+%1javax.persistence.EntityManager*
+SELECT sp FROM Sport sp *
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)¨
+¥
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javañ ñ(S%
 queryjavax.persistence.TypedQuery"__id*$
 "
-%1javax.persistence.TypedQueryòï
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaú	 ú(
-%2java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*'
+%2javax.persistence.TypedQueryãà
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaò ò(&
+%3java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*'
 %
-queryjavax.persistence.TypedQuery2getResultList()"y
-_
-SC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/dataaccess/DataAccess.javaú ú(
+queryjavax.persistence.TypedQuery2getResultList()‰
+†
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaò ò('
+spjava.util.List"__id*
 
-%2java.util.ListB
+%3java.util.List}
+{
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaó ó(
+kontjava.lang.Integer"__id*
+""*
+2*¾
+1P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaû	 û(
+"g
+P
+D/Users/analucia/git/IS2Bets/src/main/java/dataaccess/DataAccess.javaû û(
+
+sdomain.SportB
 dataaccess.DataAccess

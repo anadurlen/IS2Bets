@@ -1,1 +1,1 @@
-domain.Team#setEvents(Ljava/util/Vector;)V
+domain.Team#getUsers()Ljava/util/Vector;

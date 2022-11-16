@@ -1,16 +1,16 @@
 
-(domain.Team#getUsers()Ljava/util/Vector;S
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Team.java* *(#"1*ﬁ
-1S
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Team.java+	 +(í
-è
-S
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Team.java+	 +(
-%0java.util.Vector"__id**
+(domain.Team#getIzena()Ljava/lang/String;D
+:/Users/analucia/git/IS2Bets/src/main/java/domain/Team.java" "("1*±
+1D
+:/Users/analucia/git/IS2Bets/src/main/java/domain/Team.java#	 #(É
+Ä
+D
+:/Users/analucia/git/IS2Bets/src/main/java/domain/Team.java#	 #(
+%0java.lang.String"__id**
 domain.Team"
-users"o
-S
-IC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Team.java+ +(
+izena"`
+D
+:/Users/analucia/git/IS2Bets/src/main/java/domain/Team.java# #(
 
-%0java.util.VectorB
+%0java.lang.StringB
 domain.Team

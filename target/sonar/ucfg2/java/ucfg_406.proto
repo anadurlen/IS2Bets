@@ -1,16 +1,16 @@
 
-,domain.Transaction#getData()Ljava/util/Date;Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.java; ;("1*õ
-1Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.java<	 <(
-š
-Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.java<	 <(
-%0java.util.Date"__id* *
-domain.Transaction"
-data"t
-Z
-PC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/domain/Transaction.java< <(
-
-%0java.util.DateB
+/domain.Transaction#getDirua()Ljava/lang/Double;K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java5 5("1*Í
+1K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java6	 6(‘
+Ž
+K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java6	 6(
+%0java.lang.Double"__id*!*
+domain.Transaction"
+dirua"g
+K
+A/Users/analucia/git/IS2Bets/src/main/java/domain/Transaction.java6 6(
+
+%0java.lang.DoubleB
 domain.Transaction

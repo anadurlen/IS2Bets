@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: EmaitzakIpiniMockIntTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.043 sec <<< FAILURE! - in EmaitzakIpiniMockIntTest
+test1(EmaitzakIpiniMockIntTest)  Time elapsed: 0.037 sec  <<< FAILURE!
+org.mockito.exceptions.verification.WantedButNotInvoked: 
+
+Wanted but not invoked:
+dataAccess.EmaitzakIpini(
+    <Capturing argument>
+);
+-> at EmaitzakIpiniMockIntTest.test1(EmaitzakIpiniMockIntTest.java:39)
+
+However, there were exactly 3 interactions with this mock:
+dataAccess.open(true);
+-> at businessLogic.BLFacadeImplementation.<init>(BLFacadeImplementation.java:55)
+
+dataAccess.initializeDB();
+-> at businessLogic.BLFacadeImplementation.<init>(BLFacadeImplementation.java:56)
+
+dataAccess.close();
+-> at businessLogic.BLFacadeImplementation.<init>(BLFacadeImplementation.java:57)
+
+
+	at EmaitzakIpiniMockIntTest.test1(EmaitzakIpiniMockIntTest.java:39)
+

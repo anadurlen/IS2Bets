@@ -1,16 +1,16 @@
 
-?configuration.ConfigXML#getDataBaseOpenMode()Ljava/lang/String;a
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.java¢ ¢(""1*Ÿ
-1a
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.java£	 £(·
-´
-a
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.java£	 £(
-%0java.lang.String"__id*1*/
-configuration.ConfigXML"
-dataBaseOpenMode"}
-a
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.java£ £(
+@configuration.ConfigXML#getBusinessLogicName()Ljava/lang/String;R
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.javaš š(#"1*ó
+1R
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java›	 ›(©
+¦
+R
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java›	 ›(
+%0java.lang.String"__id*2*0
+configuration.ConfigXML"
+businessLogicName"n
+R
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java› ›(
 
 %0java.lang.StringB
 configuration.ConfigXML

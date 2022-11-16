@@ -1,9 +1,17 @@
 
-/configuration.ConfigXML#isBusinessLogicLocal()Z_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.javaE E($"1*Ï
-1_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.javaF	 F("i
-_
-UC:/Users/jonor/eclipse-workspace/Bet22Lite/src/main/java/configuration/ConfigXML.javaF F(
-""B
+7configuration.ConfigXML#getPassword()Ljava/lang/String;P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java= =("1*ä
+1P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java>	 >(ž
+›
+P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java>	 >(
+%0java.lang.String"__id*)*'
+configuration.ConfigXML"
+
+password"l
+P
+F/Users/analucia/git/IS2Bets/src/main/java/configuration/ConfigXML.java> >(
+
+%0java.lang.StringB
 configuration.ConfigXML
