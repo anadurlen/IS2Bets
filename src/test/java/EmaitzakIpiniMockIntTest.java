@@ -49,7 +49,7 @@ public class EmaitzakIpiniMockIntTest {
     public void test2() {
 
             try {
-                Mockito.doReturn(new EventNotFinished()).when(mock).EmaitzakIpini(quote1);
+                Mockito.doThrow(new EventNotFinished()).when(mock).EmaitzakIpini(quote1);
                 sut.EmaitzakIpini(quote1);
 
             } catch (EventNotFinished e1) {
